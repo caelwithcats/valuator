@@ -1,7 +1,6 @@
 #include <gtk/gtk.h>
 #include <string>
 // yeah, master and slave will make github very angry.
-// Hate you github
 
 GtkBuilder *gladeBuilder;
 GtkWidget *masterWindow;
